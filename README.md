@@ -1,2 +1,3 @@
 # NurseMedcorp-calculator
-Its a nurse medcorp caculator that can be used by all healthcare professionals for calculations.
+It's a nurse medcorp calculator that can be used by all healthcare professionals for calculations.
+Developer_Aleshba Manzoor
